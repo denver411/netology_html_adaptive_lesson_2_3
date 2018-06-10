@@ -1,8 +1,8 @@
- @media (min-width: 640px) {
-   .news__list {
-     display: flex;
-     flex-basis: 50%;
-     flex-wrap: wrap;
-     justify-content: space-between;
-   }
- }
+@media (min-width: 640px) {
+    .news__list {
+    display: flex;
+    flex-basis: 50%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
