@@ -2,7 +2,7 @@
   .products {
     display: flex;
     justify-content: space-between;
-    align-items: stretch;
+    align-items: flex-start;
   }
   .product:nth-child(3n+2) {
     margin-left: 2%;
